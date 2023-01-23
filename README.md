@@ -14,3 +14,5 @@ To create video (with ready model):
 * (if not yet) run *video2frames&audio*
 * run *gen_frames.py*
 * run *back2video*
+
+Details soon!
