@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p frames
+ffmpeg -i source.mp4 frames/frame_%04d.jpg
+ffmpeg -i source.mp4 -vn -acodec copy audio.aac
